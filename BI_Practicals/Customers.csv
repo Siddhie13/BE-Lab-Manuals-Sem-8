@@ -1,0 +1,101 @@
+CustomerID,CustomerName,City,State,Country,Segment
+C001,Rahul Nair,Mumbai,Maharashtra,India,Consumer
+C002,Anjali Verma,Pune,Maharashtra,India,Home Office
+C003,Anjali Gupta,Bangalore,Karnataka,India,Corporate
+C004,Arjun Gupta,Bangalore,Karnataka,India,Home Office
+C005,Karan Singh,Ahmedabad,Gujarat,India,Consumer
+C006,Amit Verma,Pune,Maharashtra,India,Consumer
+C007,Riya Nair,Ahmedabad,Gujarat,India,Corporate
+C008,Karan Nair,Mumbai,Maharashtra,India,Consumer
+C009,Pooja Sharma,Hyderabad,Telangana,India,Consumer
+C010,Vikram Iyer,Chennai,Tamil Nadu,India,Consumer
+C011,Pooja Mehta,Delhi,Delhi,India,Home Office
+C012,Arjun Iyer,Mumbai,Maharashtra,India,Corporate
+C013,Vikram Singh,Pune,Maharashtra,India,Corporate
+C014,Rahul Gupta,Ahmedabad,Gujarat,India,Corporate
+C015,Arjun Sharma,Mumbai,Maharashtra,India,Corporate
+C016,Amit Verma,Pune,Maharashtra,India,Consumer
+C017,Sneha Iyer,Kolkata,West Bengal,India,Consumer
+C018,Amit Patel,Delhi,Delhi,India,Home Office
+C019,Arjun Mehta,Mumbai,Maharashtra,India,Consumer
+C020,Riya Das,Bangalore,Karnataka,India,Corporate
+C021,Vikram Das,Chennai,Tamil Nadu,India,Home Office
+C022,Anjali Patel,Pune,Maharashtra,India,Corporate
+C023,Rahul Verma,Hyderabad,Telangana,India,Corporate
+C024,Amit Singh,Mumbai,Maharashtra,India,Consumer
+C025,Neha Mehta,Kolkata,West Bengal,India,Consumer
+C026,Karan Das,Chennai,Tamil Nadu,India,Home Office
+C027,Vikram Das,Chennai,Tamil Nadu,India,Corporate
+C028,Karan Mehta,Ahmedabad,Gujarat,India,Home Office
+C029,Sneha Patel,Ahmedabad,Gujarat,India,Consumer
+C030,Riya Reddy,Bangalore,Karnataka,India,Consumer
+C031,Pooja Patel,Ahmedabad,Gujarat,India,Corporate
+C032,Sneha Das,Bangalore,Karnataka,India,Consumer
+C033,Sneha Nair,Pune,Maharashtra,India,Home Office
+C034,Vikram Sharma,Hyderabad,Telangana,India,Consumer
+C035,Amit Sharma,Ahmedabad,Gujarat,India,Corporate
+C036,Rahul Mehta,Kolkata,West Bengal,India,Home Office
+C037,Arjun Verma,Mumbai,Maharashtra,India,Consumer
+C038,Riya Sharma,Bangalore,Karnataka,India,Consumer
+C039,Amit Patel,Hyderabad,Telangana,India,Corporate
+C040,Arjun Mehta,Chennai,Tamil Nadu,India,Consumer
+C041,Rahul Gupta,Mumbai,Maharashtra,India,Consumer
+C042,Vikram Sharma,Chennai,Tamil Nadu,India,Corporate
+C043,Sneha Singh,Bangalore,Karnataka,India,Home Office
+C044,Neha Gupta,Hyderabad,Telangana,India,Consumer
+C045,Arjun Iyer,Chennai,Tamil Nadu,India,Consumer
+C046,Vikram Nair,Mumbai,Maharashtra,India,Corporate
+C047,Sneha Patel,Hyderabad,Telangana,India,Home Office
+C048,Arjun Patel,Bangalore,Karnataka,India,Corporate
+C049,Karan Iyer,Mumbai,Maharashtra,India,Home Office
+C050,Riya Sharma,Hyderabad,Telangana,India,Corporate
+C051,Anjali Singh,Delhi,Delhi,India,Home Office
+C052,Rahul Patel,Delhi,Delhi,India,Corporate
+C053,Rahul Reddy,Kolkata,West Bengal,India,Corporate
+C054,Pooja Verma,Mumbai,Maharashtra,India,Consumer
+C055,Neha Patel,Delhi,Delhi,India,Corporate
+C056,Vikram Verma,Ahmedabad,Gujarat,India,Corporate
+C057,Vikram Gupta,Hyderabad,Telangana,India,Corporate
+C058,Arjun Reddy,Delhi,Delhi,India,Consumer
+C059,Arjun Das,Mumbai,Maharashtra,India,Corporate
+C060,Riya Singh,Delhi,Delhi,India,Home Office
+C061,Anjali Singh,Pune,Maharashtra,India,Corporate
+C062,Sneha Mehta,Kolkata,West Bengal,India,Corporate
+C063,Sneha Sharma,Delhi,Delhi,India,Corporate
+C064,Sneha Sharma,Chennai,Tamil Nadu,India,Corporate
+C065,Karan Singh,Chennai,Tamil Nadu,India,Home Office
+C066,Riya Sharma,Pune,Maharashtra,India,Corporate
+C067,Karan Gupta,Chennai,Tamil Nadu,India,Home Office
+C068,Karan Das,Mumbai,Maharashtra,India,Home Office
+C069,Vikram Iyer,Ahmedabad,Gujarat,India,Consumer
+C070,Arjun Das,Pune,Maharashtra,India,Consumer
+C071,Sneha Das,Kolkata,West Bengal,India,Consumer
+C072,Rahul Das,Bangalore,Karnataka,India,Consumer
+C073,Riya Iyer,Pune,Maharashtra,India,Corporate
+C074,Sneha Patel,Kolkata,West Bengal,India,Corporate
+C075,Pooja Nair,Chennai,Tamil Nadu,India,Home Office
+C076,Rahul Sharma,Mumbai,Maharashtra,India,Corporate
+C077,Anjali Das,Kolkata,West Bengal,India,Corporate
+C078,Neha Reddy,Mumbai,Maharashtra,India,Corporate
+C079,Sneha Reddy,Mumbai,Maharashtra,India,Home Office
+C080,Rahul Nair,Delhi,Delhi,India,Consumer
+C081,Amit Patel,Hyderabad,Telangana,India,Corporate
+C082,Pooja Nair,Bangalore,Karnataka,India,Consumer
+C083,Pooja Verma,Chennai,Tamil Nadu,India,Home Office
+C084,Karan Iyer,Kolkata,West Bengal,India,Corporate
+C085,Rahul Gupta,Pune,Maharashtra,India,Consumer
+C086,Karan Das,Hyderabad,Telangana,India,Consumer
+C087,Rahul Mehta,Chennai,Tamil Nadu,India,Home Office
+C088,Karan Iyer,Pune,Maharashtra,India,Consumer
+C089,Neha Iyer,Pune,Maharashtra,India,Consumer
+C090,Riya Mehta,Delhi,Delhi,India,Consumer
+C091,Anjali Verma,Mumbai,Maharashtra,India,Corporate
+C092,Pooja Sharma,Bangalore,Karnataka,India,Consumer
+C093,Pooja Iyer,Ahmedabad,Gujarat,India,Consumer
+C094,Riya Patel,Mumbai,Maharashtra,India,Home Office
+C095,Anjali Mehta,Bangalore,Karnataka,India,Home Office
+C096,Vikram Sharma,Chennai,Tamil Nadu,India,Consumer
+C097,Sneha Iyer,Bangalore,Karnataka,India,Consumer
+C098,Arjun Reddy,Kolkata,West Bengal,India,Home Office
+C099,Rahul Patel,Mumbai,Maharashtra,India,Home Office
+C100,Pooja Gupta,Kolkata,West Bengal,India,Consumer
